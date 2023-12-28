@@ -12,14 +12,14 @@ require (
 	github.com/jaswdr/faker v1.19.1
 	github.com/knieriem/odf v0.1.0
 	github.com/lopezator/migrator v0.3.1
-	github.com/mattn/go-sqlite3 v1.14.18
-	github.com/moov-io/base v0.48.2
+	github.com/mattn/go-sqlite3 v1.14.19
+	github.com/moov-io/base v0.48.3
 	github.com/pariz/gountries v0.1.6
-	github.com/prometheus/client_golang v1.17.0
+	github.com/prometheus/client_golang v1.18.0
 	github.com/stretchr/testify v1.8.4
-	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673
+	github.com/xrash/smetrics v0.0.0-20231213231151-1d8dd44e695e
 	go4.org v0.0.0-20230225012048-214862532bf5
-	golang.org/x/oauth2 v0.14.0
+	golang.org/x/oauth2 v0.15.0
 	golang.org/x/text v0.14.0
 )
 
